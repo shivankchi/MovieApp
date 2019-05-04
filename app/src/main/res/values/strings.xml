@@ -1,0 +1,23 @@
+<resources>
+	<string name="app_name">MovieApp</string>
+	<string name="description">MovieApp</string>
+	<string name="title_network_alert">Network Error</string>
+	<string name="message_network_alert">Make sure you are connected to Internet</string>
+	<string name="release_date_error">Release Date Missing</string>
+
+	<!--DashBoard Menu Strings-->
+	<string name="top_rated">Top rated</string>
+	<string name="favorites">Release Date Ascending</string>
+	<string name="popular">Popular</string>
+	<string name="sort_by">Sort by</string>
+
+	<!--Movie Details Section-->
+	<string name="share_trailer">Share trailer</string>
+	<string name="add_to_favorites">Mark as favorite</string>
+	<string name="remove_from_favorites">Remove from favorites</string>
+	<string name="watch_trailer">Watch trailer</string>
+
+	<!--Rating-->
+	<string name="movie_user_rating">TMDb: %1$s/10</string>
+
+</resources>
